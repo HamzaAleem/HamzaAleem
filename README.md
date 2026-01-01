@@ -1,5 +1,69 @@
-# 💫 About Me:
-I'm Currently working in Cybernet as Inventory Analyst with profound interest in data engineering.
+# 👋 Hi, I'm Hamza Aleem
+
+Data Engineer / Data Analyst with hands-on experience in building automated ETL pipelines, cloud-based data workflows, and analytics dashboards.
+
+🔹 Python | SQL | Power BI | BigQuery | AWS Lambda | Google Apps Script  
+🔹 Inventory Analytics | SAP S/4HANA | Cloud Data Engineering  
+🔹 10M+ records processed | 50+ data sources automated
+
+## 🚀 What I Do
+
+- Design and automate **ETL / ELT pipelines** for large-scale operational data
+- Build **cloud-native data ingestion workflows** using GCP and AWS
+- Clean, validate, and model data for **analytics and BI consumption**
+- Develop **executive dashboards** using Power BI and Looker
+- Automate manual reporting using Python and Google Apps Script
+
+## 🛠️ Tech Stack
+
+**Programming**
+- Python (Pandas, APIs, Web Scraping)
+- SQL (Joins, CTEs, Window Functions)
+
+**Data Engineering**
+- ETL / ELT Pipelines
+- Data Modeling & Schema Design
+- Incremental & Batch Processing
+
+**Cloud & Automation**
+- Google Cloud Platform (BigQuery, Cloud Functions, Scheduler)
+- AWS (Lambda, EventBridge, CloudWatch)
+- Google Apps Script
+
+**BI & Analytics**
+- Power BI (DAX, Power Query)
+- Looker / LookML
+
+**Enterprise Systems**
+- SAP S/4HANA (MM – Inventory)
+
+## 📌 Featured Projects
+
+### 🔹 Inventory ETL Pipeline (Google Sheets → BigQuery)
+Automated daily ingestion of inventory data from 50+ nationwide Google Sheets into BigQuery.
+
+- Processed 10M+ rows of data
+- Used Cloud Functions + Scheduler
+- Implemented schema validation & deduplication
+- Enabled real-time Power BI dashboards
+
+
+### 🔹 Cloud-Based ETL Automation (AWS Lambda)
+Built serverless ETL pipelines triggered by scheduled events.
+
+- Incremental data loads using Lambda
+- Monitoring via CloudWatch
+- Reduced manual reporting by 90%
+
+
+### 🔹 Web Scraping ETL (Python → SQL Server)
+Scraped e-commerce and automotive data and stored it in SQL Server.
+
+- Python + Requests + BeautifulSoup
+- Data cleaning with Pandas
+- Stored using pyodbc / SQLAlchemy
+
+
 
 
 ## 🌐 Socials:
